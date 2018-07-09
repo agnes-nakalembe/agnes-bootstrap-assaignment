@@ -1,0 +1,65 @@
+
+.container-fluid{
+    border: 1px solid aqua;
+    background: #AFEEEE;
+}
+
+.navbar-light .navbar-nav li a:hover {
+    background: orangered;
+    border-radius: 5px;
+}
+
+.display-4{
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.display-6{
+    font-family: 'Cormorant Garamond', serif;
+    margin: 15px;
+    font-weight: bold;
+
+}
+
+.img-fluid{
+    min-width:100%; 
+}
+
+.jumbotron{
+    padding: 0;
+    border: 3px solid aqua;
+    margin: 0;
+    height: 0 auto;
+    margin: 15px
+}
+
+.text{
+    font-family: 'Fira Sans', sans-seri;
+    width: 90%;
+    margin: 15px;
+    height: 0 auto;
+}
+
+.p{
+    font-family: 'Fira Sans', sans-seri; 
+    margin: 15px;
+}
+
+.img{
+    border: 1px solid aqua;
+    margin: 15px;
+    height: 0 auto;
+    width: 90%;
+}
+
+.last{
+    width: 90%;
+    margin: 15px;
+    height: 0 auto;
+}
+
+
+
+
